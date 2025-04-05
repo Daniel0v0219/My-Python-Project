@@ -1,6 +1,6 @@
 """
 File: StepUp.py
-Name: 蔡佾燁
+Name: 王宥筌
 ------------------------
 This file shows Karel picking up 
 the beeper at Street 1 Avenue 2,
